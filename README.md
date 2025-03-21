@@ -63,7 +63,7 @@ This project is an end-to-end solution for extracting structured data from invoi
 ### Input Invoice
 Here is an example invoice that the system can process:
 
-![Invoice Sample](invoice%201.jpeg)
+![Invoice Sample]([invoice%201.jpeg](https://github.com/pokalerushikesh/End-to-End-Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model/blob/main/invoice%201.jpg))
 
 
 
